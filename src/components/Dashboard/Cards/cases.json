@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Aggregated Confirmed",
+        "id": 1,
+        "color": "#f9345e"
+    },
+    {
+        "title": "Active Confirmed",
+        "id": 2,
+        "color": "#fa6400"
+    },
+    {
+        "title": "Recovered",
+        "id": 3,
+        "color": "#1cb142"
+    },
+    {
+        "title": "Death",
+        "id": 4,
+        "color": "#6236ff"
+    }
+]
